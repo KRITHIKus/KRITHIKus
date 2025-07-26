@@ -33,42 +33,45 @@
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table width="100%">
+<h2 align='center'><i>Languages and Tools</i></h2>
+
+<table align="center">
   <tr>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript" />
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript" />
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" title="React" />
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman" />
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" title="HTML5" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" title="MongoDB" />
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" title="Node.js" />
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" title="Express.js" />
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" title="Firebase" />
     </td>
-    <td align="center" width="190">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" />
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" title="Tailwind CSS" />
     </td>
   </tr>
 </table>
+
 
 
 <br>
