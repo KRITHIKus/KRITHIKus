@@ -38,36 +38,36 @@
 <table align="center">
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" title="TypeScript" />
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="50" title="TypeScript" />
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript" />
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="50" title="JavaScript" />
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" title="React" />
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50" title="React" />
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" title="Postman" />
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" title="HTML5" />
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50" title="HTML5" />
     </td>
   </tr>
   <tr>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" title="MongoDB" />
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" title="MongoDB" />
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" title="Node.js" />
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" title="Node.js" />
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" title="Express.js" />
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50" title="Express.js" />
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" title="Firebase" />
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50" title="Firebase" />
     </td>
     <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" title="Tailwind CSS" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" title="Tailwind CSS" />
     </td>
   </tr>
 </table>
