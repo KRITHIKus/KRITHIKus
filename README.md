@@ -26,7 +26,7 @@
 <p align="center">
   I'm a BCA graduate passionate about backend and API development using the MERN stack.<br>
   I enjoy solving real-world problems through code and building full-stack applications.<br>
-  Explore more about me at <a href="https://a2d-blog.onrender.com/" target="_blank">a2d bLOG</a>.
+  I share what I’m learning, building, and exploring on my <a href="https://a2d-blog.onrender.com/" target="_blank">a2d bLOG</a>.
 </p>
 
 <br>
@@ -45,7 +45,7 @@
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="70" />
     </td>
     <td align='center' width="190">
-      <img src="https://raw.githubusercontent.com/krithikus/assets/main/render-logo.png" height="70" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="70" />
     </td>
     <td align='center' width="190">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" />
@@ -87,5 +87,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KRITHIKus&show_icons=true&theme=radical&hide_border=false" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KRITHIKus&theme=radical&hide_border=false" />
 </p>
