@@ -1,23 +1,24 @@
 <h1 align="center">Hi, I'm Krithik U S</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=BCA+Graduate;MERN+Stack+Enthusiast;Backend+%26+API+Developer;AI+%7C+ML+Beginner" />
 </p>
 
+<h1 align="center">Let's Connect & Collaborate</h1>
 <p align="center">
   <a href="mailto:krithikus2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Reach%20Me%20via%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/krithik-u-s-a545a4326">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://krithik.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/KRITHIKus">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 <br>
 
