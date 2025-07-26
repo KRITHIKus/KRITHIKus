@@ -84,14 +84,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/KRITHIKus/safelink/stargazers">
-    <img src="https://img.shields.io/github/stars/KRITHIKus/safelink?color=yellow&style=flat-square" alt="Stars" />
-  </a>
-  <a href="https://github.com/KRITHIKus/safelink/network/members">
-    <img src="https://img.shields.io/github/forks/KRITHIKus/safelink?color=blue&style=flat-square" alt="Forks" />
-  </a>
-</p>
 
 <br>
 
