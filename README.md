@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/KRITHIKus/safelink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KRITHIKus&repo=safelink&theme=radical&hide_border=false" height="185" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KRITHIKus&repo=safelink&theme=radical&hide_border=true" height="185" />
   </a>
 </p>
 
