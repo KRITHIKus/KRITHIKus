@@ -101,6 +101,4 @@
 </p>
 
 <br>
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=KRITHIKus)
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=KRITHIKus)
