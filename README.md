@@ -17,6 +17,9 @@
   <a href="https://github.com/KRITHIKus">
     <img src="https://img.shields.io/badge/Explore%20My%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+    <a href="https://buymeacoffee.com/KrithikUS">
+    <img src="https://img.shields.io/badge/Support%20My%20Work-%23FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  </a>
 </p>
 
 
