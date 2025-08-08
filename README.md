@@ -101,4 +101,5 @@
 </p>
 
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=KRITHIKus)
+![Profile Views](https://komarev.com/ghpvc/?username=KRITHIKus&style=flat-square&color=blue)
+
