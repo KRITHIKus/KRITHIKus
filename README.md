@@ -99,3 +99,8 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KRITHIKus&theme=radical&hide_border=false" />
 </p>
+
+<br>
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=KRITHIKus)
+</p>
