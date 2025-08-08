@@ -20,7 +20,6 @@
     <a href="buymeacoffee.com/krithikus">
     <img src="https://img.shields.io/badge/Support%20My%20Work-%23FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   </a>
-    <img src="https://komarev.com/ghpvc/?username=KRITHIKus&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 
@@ -101,5 +100,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KRITHIKus&theme=radical&hide_border=false" />
 </p>
 
-
+<br>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KRITHIKus&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
