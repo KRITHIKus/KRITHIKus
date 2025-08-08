@@ -14,7 +14,7 @@
   <a href="https://krithik.onrender.com/">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://buymeacoffee.com/krithikus">
+  <a href="https://github.com/KRITHIKus/">
     <img src="https://img.shields.io/badge/Explore%20My%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
     <a href="buymeacoffee.com/krithikus">
