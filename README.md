@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/krithik-u-s-a545a4326">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://krithik.onrender.com/">
+  <a href="https://krithikus.onrender.com/">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/KRITHIKus/">
